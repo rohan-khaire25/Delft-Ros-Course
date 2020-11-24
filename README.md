@@ -5,7 +5,7 @@ Link to the course - https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T20
 
 This repo contains programming assignments and files needed for them.
 
-Syllabus  
+## Syllabus ##  
 
 Getting Started with Robotic Operating Systems (ROS)
 
